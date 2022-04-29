@@ -1,4 +1,4 @@
-class Solution {
+class Solution {                                                  //Solved In Leetcode
 public:
     int findDuplicate(vector<int>& nums) {
         sort(nums.begin(), nums.end());                           //we will sort the array first because if there will be [1,2,3,2,4] it will become [1,2,2,3,4]
