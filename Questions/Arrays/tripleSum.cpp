@@ -9,7 +9,7 @@ Question link :- https://practice.geeksforgeeks.org/problems/triplet-sum-in-arra
     -a + b + c = x
     -b + c = X - a => 13 - 1 = 12
     -so now we have to find low + high that is equal to 12
-    -low is 4 and high is 45 so 45 + 4 = 49 which is greater than 12 so high--
+    -low is 4 and high is 45 so 45 + 4 = 49 which is greater than 12 so high-- i.e now the pointer hish is on 10 and the low is on 4
     -now high is 10 i.e 4+10 = 14, high--
     -now high is 8 i.e 4 + 8 = 12, 12=12
     -now we found the element so we will return 1;

@@ -8,7 +8,6 @@ int rotateArrByOne(int arr[], int n){
     }
     arr[n-1] = temp;
 }
-rhstrhsrth
 
 void printArray(int arr[], int n){
         for(int i=0; i<n;i++){
