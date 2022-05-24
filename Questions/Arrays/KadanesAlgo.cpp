@@ -1,0 +1,4 @@
+/*
+        Brute Force Approch
+        we will find every subarray and then sum it the largest subarray is the answer
+*/
